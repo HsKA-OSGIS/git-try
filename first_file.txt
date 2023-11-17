@@ -1,3 +1,4 @@
 my first line
 second line
 implement my new feature but WIP
+another line from feature 1
